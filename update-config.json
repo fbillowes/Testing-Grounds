@@ -2,8 +2,8 @@
     "Configurations": [
       {
       "Board": "ESP32_DEV",
-      "Version": "5.0.0",
-      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/firmwareVer5.bin"
+      "Version": "6.0.0",
+      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/firmwareVer6.bin"
       }
     ]
   }
