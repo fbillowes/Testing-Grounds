@@ -2,8 +2,8 @@
     "Configurations": [
       {
 
-      "Version": "6.0.0",
-      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/firmwareVer6.bin"
+      "Version": "2.0.0",
+      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/firmwareVer2.bin"
       }
     ]
   }
