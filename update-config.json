@@ -2,8 +2,8 @@
     "Configurations": [
       {
 
-      "Version": "6.0.0",
-      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/Tether_0_9.ino.esp32.bin"
+      "Version": "1.0.0",
+      "URL": "https://raw.githubusercontent.com/fbillowes/Testing-Grounds/main/Tether_1_0.ino.esp32.bin"
       }
     ]
   }
